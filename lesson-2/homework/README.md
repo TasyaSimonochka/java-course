@@ -30,7 +30,9 @@
 - неттоп
 
 Для выполнения этой задачи вам понадобится композиция, о корой я вам забыл рассказать на занятии. Изучить ее самостоятельно будет несложно: 
+
 [Композиция и агрегирование](https://javarush.ru/groups/posts/1967-otnoshenija-mezhdu-klassami-nasledovanie-kompozicija-i-agregirovanie- "Композиция и агрегирование")
+
 [Просто про композицию](https://javadevblog.com/chto-takoe-kompozitsiya-primer-kompozitsii-v-java.html "Просто про композицию")
 Если после прочтения не понятно - ничего страшного, можно сделать и без нее.
 
