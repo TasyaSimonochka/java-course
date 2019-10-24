@@ -34,6 +34,7 @@
 [Композиция и агрегирование](https://javarush.ru/groups/posts/1967-otnoshenija-mezhdu-klassami-nasledovanie-kompozicija-i-agregirovanie- "Композиция и агрегирование")
 
 [Просто про композицию](https://javadevblog.com/chto-takoe-kompozitsiya-primer-kompozitsii-v-java.html "Просто про композицию")
+
 Если после прочтения не понятно - ничего страшного, можно сделать и без нее.
 
 ##### Иерархия классов составляется на ваше усмотрение, вот несколько советов для выполнения задачи:
