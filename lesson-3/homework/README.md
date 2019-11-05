@@ -10,6 +10,9 @@
 #### Пример вывода:
 your.packet.Log: main: In main method
 
+#### Подсказка:
+Thread.currentThread().getStackTrace() - поможет вам получить стэктрейс
+
 #### За правильно решенную задачу 1 балл.
 
 ## Задача 2.
