@@ -1,4 +1,4 @@
-#Полезные ссылки
+# Полезные ссылки
 
 - https://javarush.ru/groups/posts/2004-teorija-dzhenerikov-v-java-ili-gde-na-praktike-stavitjh-skobki - простая статья про Generics
 
