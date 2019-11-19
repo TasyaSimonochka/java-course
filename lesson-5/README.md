@@ -8,10 +8,10 @@
 
 - Коллекции в картинках (очень информативные и полезные, настоятельно рекомендуются к прочтению):
 
- - LinkedList: https://habr.com/ru/post/127864/
+  - LinkedList: https://habr.com/ru/post/127864/
 
- - ArrayList: https://habr.com/ru/post/128269/
+  - ArrayList: https://habr.com/ru/post/128269/
 
- - HashMap: https://habr.com/ru/post/128017/
+  - HashMap: https://habr.com/ru/post/128017/
 
 - https://habr.com/ru/post/162017/ - интересные вопросы про коллекции
