@@ -2,7 +2,7 @@
 
 ## Дисклеймер
 
-[![Дисклеймер](https://github.com/Styopa1769/java-course/blob/master/lesson-5/homework/cab.png?raw=true "Дисклеймер")](https://github.com/Styopa1769/java-course/blob/master/lesson-5/homework/cab.png?raw=true "Дисклеймер")
+[![Дисклеймер](https://github.com/Styopa1769/java-course/blob/master/lesson-5/homework/disclaimer.png?raw=true "Дисклеймер")](https://github.com/Styopa1769/java-course/blob/master/lesson-5/homework/disclaimer.png?raw=true "Дисклеймер")
 
 ## На самом деле шутка, в этот раз должно быть все просто :)
 
