@@ -1,5 +1,11 @@
 # Задание 5
 
+## Дисклеймер
+
+[![Дисклеймер](https://github.com/Styopa1769/java-course/blob/master/lesson-5/homework/cab.png?raw=true "Дисклеймер")](https://github.com/Styopa1769/java-course/blob/master/lesson-5/homework/cab.png?raw=true "Дисклеймер")
+
+## На самом деле шутка, в этот раз должно быть все просто :)
+
 ## Задача 1
 ### Начиная с Java 8 в java.util появился очень полезный класс Optional:
 - [статья про Optional](https://habr.com/ru/post/346782/ "Статья про Optional")
